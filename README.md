@@ -1,5 +1,4 @@
-# Bandwidth_Evaluation
-
+# Bandwidth Evaluator
 
 
 This program measure the system bandwidth by downloading a
