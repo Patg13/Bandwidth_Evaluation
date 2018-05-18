@@ -11,8 +11,8 @@ calculate the average download speed (this result will appear in the output
 file).
 
 The upload measurement is not used in the program (the
-program can do it, but it has been deactivated, because it’s not very useful to
-evaluate the bandwidth speed and the library is not very good for upload
+program can do it, but it has been deactivated, because it’s not very useful for
+bandwidth speed evaluation, also the speedtest-cli library is not very good for upload speed
 measurement)
 
 If the program stop (power loss, for example) you can just
